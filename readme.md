@@ -40,6 +40,8 @@ AI将是未来变革的重要驱动力，尤其在商业领域的巨大潜力还
 @字王：qq：357811718，微信：zwpython  mail:hhq54@163.com
 通过后，管理员会主动联系大家，加入智王AI开源团队群。
 
+![zwai-qrcode](https://github.com/user-attachments/assets/ab419255-d63b-4c00-a4c9-9f554ce6cd1d)
+
 大家可以通过公众号，和以下网络项目，了解《智王AI开源团队》相关背景资料：
  
 * Github项目总址：https://github.com/ziwang-com/
@@ -49,17 +51,17 @@ AI将是未来变革的重要驱动力，尤其在商业领域的巨大潜力还
 * 字王AGM阿格姆AI大模型基因图谱-项目网址：https://github.com/ziwang-com/AGM
 
 # # 【智王AI资源库】
-百度网盘-链接： https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks 提取码：hiks
-阿里云盘-链接： https://www.alipan.com/s/pZ5qewjCec8 提取码： fs64
+* 百度网盘-链接： https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks 提取码：hiks
+* 阿里云盘-链接： https://www.alipan.com/s/pZ5qewjCec8 提取码： fs64
+* #
+* 智王AI总群：124134140，智王AI-1群：655402626，智王AI-2群：419523710
+* 智王AI-3群：790548107
 
-智王AI总群：124134140，智王AI-1群：655402626，智王AI-2群：419523710
-智王AI-3群：790548107
-
-QQ社群，都是千人大群，总群是三千人超级大群。
-各个QQ社群，定期会清理非活跃成员，欢迎加入，积极发言，共同学习。
-
-QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
-微信群，请先+管理员微信：zwpython，注明：加群。
+* QQ社群，都是千人大群，总群是三千人超级大群。
+* 各个QQ社群，定期会清理非活跃成员，欢迎加入，积极发言，共同学习。
+* 
+* QQ群文件，和网盘，有海量AI资源/模型/文档，提供免费下载。
+* 微信群，请先+管理员微信：zwpython，注明：加群。
 
 
 
