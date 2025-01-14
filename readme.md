@@ -29,11 +29,11 @@ AI将是未来变革的重要驱动力，尤其在商业领域的巨大潜力还
 智王AI开源团队发起人   何海群（网名：字王）
 2025年1月14日-
  
-【附录1】
-ps，补充说明
+# # 【附录1】
+# #  ps，补充说明
 未来，在资金和管理等配套资源成熟的基础上，团队还计划开展以下工作：
-	项目孵化：将定期组织讨论和评审会议，鼓励团队成员提出创新的AI项目，从中选择可行性高的项目进行孵化，提供技术、资金和市场支援。
-	资助机制：建立相应的资金池，支持优秀的AI项目，通过众筹、风险投资等多种方式帮助团队实现产品开发与市场推广。
+* 	项目孵化：将定期组织讨论和评审会议，鼓励团队成员提出创新的AI项目，从中选择可行性高的项目进行孵化，提供技术、资金和市场支援。
+* 	资助机制：建立相应的资金池，支持优秀的AI项目，通过众筹、风险投资等多种方式帮助团队实现产品开发与市场推广。
 
 有兴趣的人士，请填写倡议书【附录2】：《智王AI开源团队-个人简历模板.docx》
 填写后，请发mail，联系团队管理员即可
@@ -42,13 +42,13 @@ ps，补充说明
 
 大家可以通过公众号，和以下网络项目，了解《智王AI开源团队》相关背景资料：
  
-Github项目总址：https://github.com/ziwang-com/
-zwai-lab智AI工坊-项目网址：https://github.com/ziwang-com/zwai-lab
-字王《大藏经》开源字库-项目网址：https://github.com/ziwang-com/dzj2018
-字王metafont元字库-项目网址：https://github.com/ziwang-com/metafont
-字王AGM阿格姆AI大模型基因图谱-项目网址：https://github.com/ziwang-com/AGM
+* Github项目总址：https://github.com/ziwang-com/
+* zwai-lab智AI工坊-项目网址：https://github.com/ziwang-com/zwai-lab
+* 字王《大藏经》开源字库-项目网址：https://github.com/ziwang-com/dzj2018
+* 字王metafont元字库-项目网址：https://github.com/ziwang-com/metafont
+* 字王AGM阿格姆AI大模型基因图谱-项目网址：https://github.com/ziwang-com/AGM
 
-【智王AI资源库】
+# # 【智王AI资源库】
 百度网盘-链接： https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks 提取码：hiks
 阿里云盘-链接： https://www.alipan.com/s/pZ5qewjCec8 提取码： fs64
 
