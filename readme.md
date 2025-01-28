@@ -1,33 +1,35 @@
-
 智王AI开源团队·倡议书
+Zhiwang AI Open Source Team · Proposal
 
-各位关注人工智能发展的朋友们，随着人工智能技术的不断进步，我们已经看到了AI在各个领域的广泛应用，尤其是在商业方面的巨大潜力。
-然而，仅仅依靠技术的进步还不足以实现可持续的发展，我们还需要将这些技术转化为实际的商业应用，探索AI变现的新机会。
-因此，我们在此发起组建一个以“AI变现”为核心目标的开源团体。
 
-一、	团体宗旨
-通过开放合作，汇聚各界资源与智慧，共同探索和优化AI技术的商业化路径。推动AI应用落地，实现资源的有效整合，促进创新与创业，最终实现经济效益和社会价值的双丰收。 
+各位关注人工智能发展的朋友们，随着人工智能技术的不断进步，我们已经看到了AI在各个领域的广泛应用，尤其是在商业方面的巨大潜力。 然而，仅仅依靠技术的进步还不足以实现可持续的发展，我们还需要将这些技术转化为实际的商业应用，探索AI变现的新机会。 因此，我们在此发起组建一个以“AI变现”为核心目标的开源团体。
+Dear friends who are concerned about the development of artificial intelligence, with the continuous progress of artificial intelligence technology, we have seen the widespread application of AI in various fields, especially in the field of business, with enormous potential. However, relying solely on technological advancements is not enough to achieve sustainable development. We also need to translate these technologies into practical commercial applications and explore new opportunities for AI monetization. Therefore, we hereby initiate the formation of an open-source group with the core goal of "AI monetization".
+
+
+一、 团体宗旨 通过开放合作，汇聚各界资源与智慧，共同探索和优化AI技术的商业化路径。推动AI应用落地，实现资源的有效整合，促进创新与创业，最终实现经济效益和社会价值的双丰收。
+1、 The group aims to explore and optimize the commercialization path of AI technology through open cooperation, gathering resources and wisdom from all walks of life. Promote the implementation of AI applications, achieve effective integration of resources, promote innovation and entrepreneurship, and ultimately achieve a dual harvest of economic benefits and social value.
+
 
 二、工作方向
-1. 资源共享：
-以【智王AI资源中心】为基础，扩大充实,建立统一、开放的团队【AI资源池】，汇聚团队成员的资源，降低开发成本。
-2. 交流互动：
-定期举办线下或线上的技术分享会，邀请团队成员，以及相关专家和行业人士进行主题演讲，分享成功经验、市场分析及融资策略，提升成员的商业运营能力。
-3. 合作网络：
-搭建一个开放的合作平台，连接不同领域的企业和团队，促进资源共享，形成良好的协作生态，扩大项目的市场影响力。
+2、 Work direction
 
-三、加入我们
-我们诚邀对AI变现有兴趣的开发者、企业家、投资人，以及任何对AI商业化充满热情的人士加入我们的团队。
-无论你是技术专家、市场营销、项目管理还是创业者，都会在这个团队中找到合适的位置。
-我们相信，团队的力量将激发出更多的创造性和商业价值。
 
-四、结语
-AI将是未来变革的重要驱动力，尤其在商业领域的巨大潜力还未被完全发掘。
-让我们共同努力，携手推动AI技术的创新与变现，实现共赢的未来。
-期待您的加入！
+资源共享： 以【智王AI资源中心】为基础，扩大充实,建立统一、开放的团队【AI资源池】，汇聚团队成员的资源，降低开发成本。
+Resource sharing: Based on the Zhiwang AI Resource Center, expand and enrich, establish a unified and open team AI resource pool, gather the resources of team members, and reduce development costs.
+交流互动： 定期举办线下或线上的技术分享会，邀请团队成员，以及相关专家和行业人士进行主题演讲，分享成功经验、市场分析及融资策略，提升成员的商业运营能力。
+Communication and interaction: Regularly hold offline or online technology sharing sessions, invite team members, relevant experts, and industry professionals to give keynote speeches, share successful experiences, market analysis, and financing strategies, and enhance members' business operation capabilities.
+合作网络： 搭建一个开放的合作平台，连接不同领域的企业和团队，促进资源共享，形成良好的协作生态，扩大项目的市场影响力。
+Collaboration Network: Build an open collaboration platform that connects enterprises and teams from different fields, promotes resource sharing, forms a good collaborative ecosystem, and expands the market influence of the project.
+三、加入我们 我们诚邀对AI变现有兴趣的开发者、企业家、投资人，以及任何对AI商业化充满热情的人士加入我们的团队。 无论你是技术专家、市场营销、项目管理还是创业者，都会在这个团队中找到合适的位置。 我们相信，团队的力量将激发出更多的创造性和商业价值。
+3、 We cordially invite developers, entrepreneurs, investors, and anyone passionate about AI commercialization who are interested in monetizing AI to join our team. Whether you are a technical expert, marketing expert, project manager, or entrepreneur, you will find a suitable position in this team. We believe that the power of the team will inspire more creativity and commercial value.
 
-智王AI开源团队发起人   何海群（网名：字王）
-2025年1月14日-
+
+四、结语 AI将是未来变革的重要驱动力，尤其在商业领域的巨大潜力还未被完全发掘。 让我们共同努力，携手推动AI技术的创新与变现，实现共赢的未来。 期待您的加入！
+4、 Conclusion: AI will be an important driving force for future change, especially in the business field where its enormous potential has not yet been fully tapped. Let's work together to promote innovation and monetization of AI technology, and achieve a win-win future. Looking forward to your joining!
+
+
+智王AI开源团队发起人 何海群（网名：字王） 2025年1月14日-
+Founder of Zhiwang AI Open Source Team He Haiqun (username: Ziwang) January 14, 2025-
  
 # # 【附录1】
 # #  ps，补充说明
